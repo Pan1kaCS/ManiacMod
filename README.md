@@ -8,20 +8,3 @@
 
 ds - https://discord.gg/w4hC3Fnvug
 
-
-{DEFAULT}:  Обычный (белый) цвет текста.
-{DARKRED}:  Темно-красный.
-{GREEN}:  Зеленый.
-{LIGHTGREEN}:  Светло-зеленый.
-{LIGHTBLUE}:  Светло-синий.
-{OLIVE}:  Оливковый.
-{LIME}:  Лаймовый.
-{RED}:  Красный.
-{GRAY}:  Серый.
-{YELLOW}:  Желтый.
-{GOLD}:  Золотой.
-{SILVER}:  Серебряный.
-{BLUE}: Синий.
-{DARKBLUE}: Темно-синий.
-{PURPLE}: Фиолетовый.
-{MAGENTA}: Пурпурный.
