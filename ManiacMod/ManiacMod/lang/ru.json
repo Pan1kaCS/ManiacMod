@@ -1,0 +1,11 @@
+{
+  "maniac_exit_message": "[{Blue}Маньяк{Azure}]{Green} вышел!",
+  "maniac_exit_countdown": "[{Blue}Маньяк{DEFAULT}]{Green} выйдет через {N} секунд",
+  "PluginTag": "[{Blue}Маньяк{DEFAULT}]{Green} ",
+  "RowEnter": "Вы вошли в очередь на роль маньяка.",
+  "RowLeave": "Вы покинули очередь на роль маньяка.",
+  "RowList": "Список игроков в очереди на маньяка:",
+  "Server.PlayerEnterRow": "{name} вошел в очередь на роль маньяка.",
+  "Server.PlayerLeaveRow": "{name} покинул очередь на роль маньяка."
+}
+

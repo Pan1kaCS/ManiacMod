@@ -1,0 +1,5 @@
+D:\12\ManiacMod\obj\Debug\net7.0\ManiacMod.csproj.AssemblyReference.cache
+D:\12\ManiacMod\obj\Debug\net7.0\ManiacMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\12\ManiacMod\obj\Debug\net7.0\ManiacMod.AssemblyInfoInputs.cache
+D:\12\ManiacMod\obj\Debug\net7.0\ManiacMod.AssemblyInfo.cs
+D:\12\ManiacMod\obj\Debug\net7.0\ManiacMod.csproj.CoreCompileInputs.cache
